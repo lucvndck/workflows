@@ -1,0 +1,11 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "My first project with gulp",
+   "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Luc Van Dijck",
+  "license": "ISC"
+}
